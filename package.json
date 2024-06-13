@@ -1,0 +1,15 @@
+{
+  "name": "javascript_html",
+  "version": "1.0.0",
+  "main": "imageList.js",
+  "scripts": {
+    "start": "browser-sync start --config bs-config.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "browser-sync": "^3.0.2"
+  }
+}
